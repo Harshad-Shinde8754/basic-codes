@@ -1,0 +1,5 @@
+temp = 15
+if(temp<=15):
+    print("cold")
+else:
+    print("not cold")
