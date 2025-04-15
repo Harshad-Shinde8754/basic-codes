@@ -1,0 +1,5 @@
+username = "admin"
+if(username is "admin"):
+    print("hello admin")
+else:
+    print("no admin")
