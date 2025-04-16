@@ -1,0 +1,3 @@
+firstname =str(input ("enter firstname"))
+print("enter firstname")
+print(len(firstname))
