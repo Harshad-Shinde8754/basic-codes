@@ -1,0 +1,2 @@
+str = "money '$' gives everything in life '$' "
+print(str.find("$"))
